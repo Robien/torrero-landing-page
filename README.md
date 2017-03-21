@@ -9,7 +9,7 @@ The source code of the video platform is still private but it will be freed befo
 
 # Questions?
 
-Ask your question at admin@torrero.fr
+Ask your question at admin [at] torrero . fr
 
 # How to help
 
