@@ -1,11 +1,13 @@
 # torrero-landing-page
-Landing page of Torrero!
 
+### What is Torrero!?
+
+Torrero! is an open-source, ethic, ads-free video-sharing platform. Sounds great, right?
 
 This is the source of Torrero! landing page.
 The source code of the video platform is still private but will be freed before the opening. (we need to be sure of the final architecture before)
 
-# Questions ?
+# Questions?
 
 Ask your question at admin@torrero.fr
 
