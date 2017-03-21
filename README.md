@@ -5,11 +5,11 @@ Landing page of Torrero!
 This is the source of Torrero! landing page.
 The source code of the video platform is still private but will be freed before the opening. (we need to be sure of the final architecture before)
 
-# questions ?
+# Questions ?
 
 Ask your question at admin@torrero.fr
 
-# how to help
+# How to help
 
 If you are developper:
  * help at Torrero! developpement (source code is not open yet but you can contribute to this repo if you want) (PR, open issues)
@@ -21,14 +21,14 @@ If you aren't a developper:
 
 Torrero ethereum address: 0x4a39f6fca6b1b7fdbe6af9db1416e58dbf0bc9af
 
-# dependancies
+# Dependancies
 
-## services
+## Services
 
 Torrero use those services:
  * Framagit https://framagit.org/public/projects (donations : [FR] https://soutenir.framasoft.org/)
 
-## libraries
+## Libraries
 
 Torrero use those principal libraries:
  * webtorrent https://webtorrent.io/ and https://github.com/feross/webtorrent
@@ -39,9 +39,10 @@ Torrero use those principal libraries:
 please contribute if you can.
 
 
-# copyright
+# Copyright
 
 Template from : https://github.com/BlackrockDigital/startbootstrap-landing-page
+
 images : 
  * "Do not track" (img/Do_Not_Track.png) is CC0
  * "Cookies" (img/cookie.png) is CC0
