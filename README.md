@@ -2,10 +2,10 @@
 
 ### What is Torrero!?
 
-Torrero! is an open-source, ethic, ads-free video-sharing platform. Sounds great, right?
+Torrero! is an open-source, ethic, ads-free video-sharing platform. Awsome, right?
 
-This is the source of Torrero! landing page.
-The source code of the video platform is still private but will be freed before the opening. (we need to be sure of the final architecture before)
+This is the source of Torrero!'s landing page.
+The source code of the video platform is still private but it will be freed before the opening. (we need to be sure of the final architecture before showing it to the world)
 
 # Questions?
 
