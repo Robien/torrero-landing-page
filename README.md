@@ -21,7 +21,7 @@ If you aren't a developper:
  * send us suggestions, ask questions (yes, it help us)
  * make a donation to Torrero! or to a project used by Torrero! (see below)
 
-Torrero ethereum address: 0x4a39f6fca6b1b7fdbe6af9db1416e58dbf0bc9af
+Torrero ethereum address: 0x3321F117d30b25f6bFCeDE718DAc0d7dbE7371c4 (proof [FR] https://twitter.com/torreroFR/status/844926909137989632)
 
 # Dependancies
 
